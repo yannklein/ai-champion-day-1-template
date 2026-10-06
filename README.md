@@ -1,7 +1,7 @@
 # AI Champion, Course Workspace
 
 This is your personal workspace for the AI Champion course. Every
-exercise's deliverable, from Monday to Friday, gets saved into its own
+exercise's deliverable, from Monday to Wednesday, gets saved into its own
 folder below, right from this GitHub page. No terminal, no install,
 everything happens in the browser.
 
@@ -62,23 +62,5 @@ Instructions: https://yannklein.github.io/ai-champion-course/day-2-backend-autom
 
 Instructions: https://yannklein.github.io/ai-champion-course/day-3-product-fundamentals/
 
-### Day 4: Product Deep Dive
-
-- [`day-4-product-deep-dive/01-project-and-context/`](day-4-product-deep-dive/01-project-and-context/)
-- [`day-4-product-deep-dive/02-schema-and-backend/`](day-4-product-deep-dive/02-schema-and-backend/)
-- [`day-4-product-deep-dive/03-build-the-screens/`](day-4-product-deep-dive/03-build-the-screens/)
-- [`day-4-product-deep-dive/04-ship-it/`](day-4-product-deep-dive/04-ship-it/)
-- [`day-4-product-deep-dive/05-break-it-and-fix-it/`](day-4-product-deep-dive/05-break-it-and-fix-it/) (optional)
-- [`day-4-product-deep-dive/06-pitch-and-teams/`](day-4-product-deep-dive/06-pitch-and-teams/)
-
-Instructions: https://yannklein.github.io/ai-champion-course/day-4-product-deep-dive/
-
-### Day 5: AI by Department
-
-- [`day-5-ai-by-department/01-lean-brief/`](day-5-ai-by-department/01-lean-brief/)
-- [`day-5-ai-by-department/02-walking-skeleton/`](day-5-ai-by-department/02-walking-skeleton/)
-- [`day-5-ai-by-department/03-data-first/`](day-5-ai-by-department/03-data-first/)
-- [`day-5-ai-by-department/04-build-in-laps/`](day-5-ai-by-department/04-build-in-laps/)
-- [`day-5-ai-by-department/05-check-and-demo/`](day-5-ai-by-department/05-check-and-demo/)
-
-Instructions: https://yannklein.github.io/ai-champion-course/day-5-ai-by-department/
+From Day 4 on, the app you build is the deliverable itself: it lives in its
+own repo (or, for a flow, in n8n), so there is nothing to commit here.

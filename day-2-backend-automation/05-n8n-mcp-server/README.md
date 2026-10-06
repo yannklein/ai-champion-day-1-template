@@ -2,11 +2,11 @@
 
 ## Workflow
 
-*TODO: upload your workflow JSON (n8n workflow menu > Download), then write its file name here*
+*TODO: upload your workflow JSON (n8n workflow menu > Download), with the path changed to `stock-tools-yourfirstname`, then write its file name here*
 
-## `opencode.json` entry
+## ChatGPT's tool list
 
-*TODO: paste your new MCP server entry, with the token replaced by REDACTED*
+*TODO: upload a screenshot of the tools ChatGPT listed from your `stock-tools` plugin, then write its file name here*
 
 ## Transcript
 

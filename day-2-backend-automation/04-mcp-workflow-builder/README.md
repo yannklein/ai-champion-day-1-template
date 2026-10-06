@@ -2,11 +2,11 @@
 
 ## Prompt
 
-*TODO: paste the prompt you gave OpenCode*
+*TODO: paste the prompt you gave ChatGPT*
 
 ## Generated workflow
 
-*TODO: upload the generated workflow JSON (check your API key is not in it), then write its file name here*
+*TODO: upload the generated workflow JSON, then write its file name here*
 
 ## Comparison with your Exercise 1 build
 
