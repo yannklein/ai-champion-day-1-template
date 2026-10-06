@@ -1,9 +1,9 @@
-# AI Champion, Day 1 Workspace
+# AI Champion, Course Workspace
 
-This is your personal workspace for Day 1 of the AI Champion course. Every
-exercise's deliverable gets saved into its own folder below, right from
-this GitHub page. No terminal, no install, everything happens in the
-browser.
+This is your personal workspace for the AI Champion course. Every
+exercise's deliverable, from Monday to Friday, gets saved into its own
+folder below, right from this GitHub page. No terminal, no install,
+everything happens in the browser.
 
 ## How to use this
 
@@ -13,11 +13,23 @@ browser.
 4. Replace each *TODO* line with your own content.
 5. Scroll down and click "Commit changes" to save it.
 
-If an exercise needs more than one file (for example, code plus a note),
-use "Add file" > "Create new file" or "Add file" > "Upload files" inside
-that same folder to add the rest.
+## Uploading a file
+
+When a *TODO* says "upload" (a screenshot, a PDF, an exported workflow,
+a code file):
+
+1. Open that exercise's folder.
+2. Click "Add file" > "Upload files", drag the file in, and click
+   "Commit changes".
+3. Back in the folder's `README.md`, replace the *TODO* with the file's
+   name, so anyone reading it knows what to open.
+
+Never upload a password, an API key or a token. When an exercise asks for
+a config file or a screenshot, check it for secrets first.
 
 ## Folders
+
+### Day 1: Foundations
 
 - [`day-1-foundations/01-course-project-setup/`](day-1-foundations/01-course-project-setup/)
 - [`day-1-foundations/02-define-the-brief/`](day-1-foundations/02-define-the-brief/)
@@ -26,4 +38,47 @@ that same folder to add the rest.
 - [`day-1-foundations/05-calendar-mcp/`](day-1-foundations/05-calendar-mcp/)
 - [`day-1-foundations/06-test-and-harden/`](day-1-foundations/06-test-and-harden/) (optional)
 
-Full exercise instructions: https://yannklein.github.io/ai-champion-course/day-1-foundations/
+Instructions: https://yannklein.github.io/ai-champion-course/day-1-foundations/
+
+### Day 2: Workflows & AI Agents
+
+- [`day-2-backend-automation/01-first-ai-workflow/`](day-2-backend-automation/01-first-ai-workflow/)
+- [`day-2-backend-automation/02-stock-agent/`](day-2-backend-automation/02-stock-agent/)
+- [`day-2-backend-automation/03-agent-as-api/`](day-2-backend-automation/03-agent-as-api/)
+- [`day-2-backend-automation/04-mcp-workflow-builder/`](day-2-backend-automation/04-mcp-workflow-builder/)
+- [`day-2-backend-automation/05-n8n-mcp-server/`](day-2-backend-automation/05-n8n-mcp-server/) (optional)
+
+Instructions: https://yannklein.github.io/ai-champion-course/day-2-backend-automation/
+
+### Day 3: Product Fundamentals
+
+- [`day-3-product-fundamentals/01-persona-and-pitch/`](day-3-product-fundamentals/01-persona-and-pitch/)
+- [`day-3-product-fundamentals/02-journey-and-flow/`](day-3-product-fundamentals/02-journey-and-flow/)
+- [`day-3-product-fundamentals/03-design-kit/`](day-3-product-fundamentals/03-design-kit/)
+- [`day-3-product-fundamentals/04-wireframe-and-screens/`](day-3-product-fundamentals/04-wireframe-and-screens/)
+- [`day-3-product-fundamentals/05-prototype-and-user-test/`](day-3-product-fundamentals/05-prototype-and-user-test/)
+- [`day-3-product-fundamentals/06-handoff-pack/`](day-3-product-fundamentals/06-handoff-pack/)
+- [`day-3-product-fundamentals/07-pitch-your-idea/`](day-3-product-fundamentals/07-pitch-your-idea/)
+
+Instructions: https://yannklein.github.io/ai-champion-course/day-3-product-fundamentals/
+
+### Day 4: Product Deep Dive
+
+- [`day-4-product-deep-dive/01-project-and-context/`](day-4-product-deep-dive/01-project-and-context/)
+- [`day-4-product-deep-dive/02-schema-and-backend/`](day-4-product-deep-dive/02-schema-and-backend/)
+- [`day-4-product-deep-dive/03-build-the-screens/`](day-4-product-deep-dive/03-build-the-screens/)
+- [`day-4-product-deep-dive/04-ship-it/`](day-4-product-deep-dive/04-ship-it/)
+- [`day-4-product-deep-dive/05-break-it-and-fix-it/`](day-4-product-deep-dive/05-break-it-and-fix-it/) (optional)
+- [`day-4-product-deep-dive/06-pitch-and-teams/`](day-4-product-deep-dive/06-pitch-and-teams/)
+
+Instructions: https://yannklein.github.io/ai-champion-course/day-4-product-deep-dive/
+
+### Day 5: AI by Department
+
+- [`day-5-ai-by-department/01-lean-brief/`](day-5-ai-by-department/01-lean-brief/)
+- [`day-5-ai-by-department/02-walking-skeleton/`](day-5-ai-by-department/02-walking-skeleton/)
+- [`day-5-ai-by-department/03-data-first/`](day-5-ai-by-department/03-data-first/)
+- [`day-5-ai-by-department/04-build-in-laps/`](day-5-ai-by-department/04-build-in-laps/)
+- [`day-5-ai-by-department/05-check-and-demo/`](day-5-ai-by-department/05-check-and-demo/)
+
+Instructions: https://yannklein.github.io/ai-champion-course/day-5-ai-by-department/

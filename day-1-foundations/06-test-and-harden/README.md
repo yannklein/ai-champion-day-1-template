@@ -6,7 +6,7 @@
 
 ## Part A: fix
 
-*TODO: what you changed (upload the fixed `index.html` to this folder too)*
+*TODO: what you changed (and upload the fixed `index.html`)*
 
 ## Part B: poisoned input
 

@@ -10,7 +10,7 @@
 
 ## Proof
 
-*TODO: add a calendar screenshot or your `.ics` file to this folder ("Add file" > "Upload files"), then write its file name here*
+*TODO: upload a calendar screenshot or your `.ics` file, then write its file name here*
 
 ---
 

@@ -10,7 +10,7 @@
 
 ## App
 
-*TODO: add your `index.html` to this folder ("Add file" > "Upload files"), then write "Added" here*
+*TODO: upload your `index.html`, then write its file name here*
 
 ---
 
