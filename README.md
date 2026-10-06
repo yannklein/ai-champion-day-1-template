@@ -10,7 +10,7 @@ browser.
 1. Open an exercise's folder below.
 2. Open the `README.md` inside it.
 3. Click the pencil (Edit) icon in the top right of the file.
-4. Replace the placeholder text with your actual deliverable.
+4. Replace each *TODO* line with your own content.
 5. Scroll down and click "Commit changes" to save it.
 
 If an exercise needs more than one file (for example, code plus a note),

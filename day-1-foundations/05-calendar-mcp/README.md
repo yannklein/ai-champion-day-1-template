@@ -1,8 +1,18 @@
-# Exercise 5: Add an MCP Calendar Connector
+# Exercise 5 deliverables: Add an MCP Calendar Connector
 
-Replace this file with your updated skill definition. Add a screenshot or
-your generated `.ics` file to this same folder as proof the calendar
-events were created ("Add file" > "Upload files").
+## Updated skill instructions
 
-Exercise: https://yannklein.github.io/ai-champion-course/day-1-foundations/exercises/05-calendar-mcp.html
+*TODO: paste your skill's instructions, including the new calendar and no due date rules*
+
+## Test run
+
+*TODO: paste the meeting notes you used and the skill's output*
+
+## Proof
+
+*TODO: add a calendar screenshot or your `.ics` file to this folder ("Add file" > "Upload files"), then write its file name here*
+
+---
+
+Exercise: https://yannklein.github.io/ai-champion-course/day-1-foundations/exercises/05-calendar-mcp.html  
 Solution: https://yannklein.github.io/ai-champion-course/day-1-foundations/solutions/05-calendar-mcp.html
