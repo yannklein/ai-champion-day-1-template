@@ -38,29 +38,26 @@ a config file or a screenshot, check it for secrets first.
 - [`day-1-foundations/05-calendar-mcp/`](day-1-foundations/05-calendar-mcp/)
 - [`day-1-foundations/06-test-and-harden/`](day-1-foundations/06-test-and-harden/) (optional)
 
-Instructions: https://yannklein.github.io/ai-champion-course/day-1-foundations/
+Instructions: https://ai-champion.yannklein.dev/day-1-foundations/
 
 ### Day 2: Workflows & AI Agents
 
 - [`day-2-backend-automation/01-first-ai-workflow/`](day-2-backend-automation/01-first-ai-workflow/)
-- [`day-2-backend-automation/02-stock-agent/`](day-2-backend-automation/02-stock-agent/)
+- [`day-2-backend-automation/02-meeting-planner-agent/`](day-2-backend-automation/02-meeting-planner-agent/)
 - [`day-2-backend-automation/03-agent-as-api/`](day-2-backend-automation/03-agent-as-api/)
 - [`day-2-backend-automation/04-mcp-workflow-builder/`](day-2-backend-automation/04-mcp-workflow-builder/)
 - [`day-2-backend-automation/05-n8n-mcp-server/`](day-2-backend-automation/05-n8n-mcp-server/) (optional)
 
-Instructions: https://yannklein.github.io/ai-champion-course/day-2-backend-automation/
+Instructions: https://ai-champion.yannklein.dev/day-2-backend-automation/
 
 ### Day 3: Product Fundamentals
 
 - [`day-3-product-fundamentals/01-persona-and-pitch/`](day-3-product-fundamentals/01-persona-and-pitch/)
 - [`day-3-product-fundamentals/02-journey-and-flow/`](day-3-product-fundamentals/02-journey-and-flow/)
-- [`day-3-product-fundamentals/03-design-kit/`](day-3-product-fundamentals/03-design-kit/)
-- [`day-3-product-fundamentals/04-wireframe-and-screens/`](day-3-product-fundamentals/04-wireframe-and-screens/)
-- [`day-3-product-fundamentals/05-prototype-and-user-test/`](day-3-product-fundamentals/05-prototype-and-user-test/)
-- [`day-3-product-fundamentals/06-handoff-pack/`](day-3-product-fundamentals/06-handoff-pack/)
-- [`day-3-product-fundamentals/07-pitch-your-idea/`](day-3-product-fundamentals/07-pitch-your-idea/)
+- [`day-3-product-fundamentals/03-mockups-and-brief/`](day-3-product-fundamentals/03-mockups-and-brief/)
+- [`day-3-product-fundamentals/04-pitch-your-idea/`](day-3-product-fundamentals/04-pitch-your-idea/)
 
-Instructions: https://yannklein.github.io/ai-champion-course/day-3-product-fundamentals/
+Instructions: https://ai-champion.yannklein.dev/day-3-product-fundamentals/
 
 From Day 4 on, the app you build is the deliverable itself: it lives in its
 own repo (or, for a flow, in n8n), so there is nothing to commit here.

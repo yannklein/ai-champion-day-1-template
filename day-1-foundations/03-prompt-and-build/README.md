@@ -14,5 +14,5 @@
 
 ---
 
-Exercise: https://yannklein.github.io/ai-champion-course/day-1-foundations/exercises/03-prompt-and-build.html  
-Solution: https://yannklein.github.io/ai-champion-course/day-1-foundations/solutions/03-prompt-and-build.html
+Exercise: https://ai-champion.yannklein.dev/day-1-foundations/exercises/03-prompt-and-build.html  
+Solution: https://ai-champion.yannklein.dev/day-1-foundations/solutions/03-prompt-and-build.html

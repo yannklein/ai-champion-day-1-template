@@ -14,5 +14,5 @@
 
 ---
 
-Exercise: https://yannklein.github.io/ai-champion-course/day-2-backend-automation/exercises/04-mcp-workflow-builder.html  
-Solution: https://yannklein.github.io/ai-champion-course/day-2-backend-automation/solutions/04-mcp-workflow-builder.html
+Exercise: https://ai-champion.yannklein.dev/day-2-backend-automation/exercises/04-mcp-workflow-builder.html  
+Solution: https://ai-champion.yannklein.dev/day-2-backend-automation/solutions/04-mcp-workflow-builder.html

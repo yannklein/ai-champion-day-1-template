@@ -22,5 +22,5 @@
 
 ---
 
-Exercise: https://yannklein.github.io/ai-champion-course/day-1-foundations/exercises/06-test-and-harden.html  
-Solution: https://yannklein.github.io/ai-champion-course/day-1-foundations/solutions/06-test-and-harden.html
+Exercise: https://ai-champion.yannklein.dev/day-1-foundations/exercises/06-test-and-harden.html  
+Solution: https://ai-champion.yannklein.dev/day-1-foundations/solutions/06-test-and-harden.html

@@ -8,19 +8,19 @@
 
 *TODO: paste the agent's system message*
 
-## Test 1: a healthy part
+## Test 1: time zones only
 
 *TODO: paste the question and the agent's answer*
 
-## Test 2: a low part
+## Test 2: a public holiday
 
 *TODO: paste the question and the agent's answer*
 
-## Test 3: every part below threshold
+## Test 3: both tools, no easy answer
 
 *TODO: paste the question and the agent's answer*
 
 ---
 
-Exercise: https://yannklein.github.io/ai-champion-course/day-2-backend-automation/exercises/02-stock-agent.html  
-Solution: https://yannklein.github.io/ai-champion-course/day-2-backend-automation/solutions/02-stock-agent.html
+Exercise: https://ai-champion.yannklein.dev/day-2-backend-automation/exercises/02-meeting-planner-agent.html  
+Solution: https://ai-champion.yannklein.dev/day-2-backend-automation/solutions/02-meeting-planner-agent.html

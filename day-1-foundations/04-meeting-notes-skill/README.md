@@ -18,5 +18,5 @@
 
 ---
 
-Exercise: https://yannklein.github.io/ai-champion-course/day-1-foundations/exercises/04-meeting-notes-skill.html  
-Solution: https://yannklein.github.io/ai-champion-course/day-1-foundations/solutions/04-meeting-notes-skill.html
+Exercise: https://ai-champion.yannklein.dev/day-1-foundations/exercises/04-meeting-notes-skill.html  
+Solution: https://ai-champion.yannklein.dev/day-1-foundations/solutions/04-meeting-notes-skill.html

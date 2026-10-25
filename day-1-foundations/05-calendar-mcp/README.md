@@ -14,5 +14,5 @@
 
 ---
 
-Exercise: https://yannklein.github.io/ai-champion-course/day-1-foundations/exercises/05-calendar-mcp.html  
-Solution: https://yannklein.github.io/ai-champion-course/day-1-foundations/solutions/05-calendar-mcp.html
+Exercise: https://ai-champion.yannklein.dev/day-1-foundations/exercises/05-calendar-mcp.html  
+Solution: https://ai-champion.yannklein.dev/day-1-foundations/solutions/05-calendar-mcp.html
