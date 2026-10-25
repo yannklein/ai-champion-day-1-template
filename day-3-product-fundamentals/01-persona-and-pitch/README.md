@@ -10,5 +10,5 @@
 
 ---
 
-Exercise: https://yannklein.github.io/ai-champion-course/day-3-product-fundamentals/exercises/01-persona-and-pitch.html  
-Solution: https://yannklein.github.io/ai-champion-course/day-3-product-fundamentals/solutions/01-persona-and-pitch.html
+Exercise: https://ai-champion.yannklein.dev/day-3-product-fundamentals/exercises/01-persona-and-pitch.html  
+Solution: https://ai-champion.yannklein.dev/day-3-product-fundamentals/solutions/01-persona-and-pitch.html

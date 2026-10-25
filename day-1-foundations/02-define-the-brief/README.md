@@ -30,5 +30,5 @@
 
 ---
 
-Exercise: https://yannklein.github.io/ai-champion-course/day-1-foundations/exercises/02-define-the-brief.html  
-Solution: https://yannklein.github.io/ai-champion-course/day-1-foundations/solutions/02-define-the-brief.html
+Exercise: https://ai-champion.yannklein.dev/day-1-foundations/exercises/02-define-the-brief.html  
+Solution: https://ai-champion.yannklein.dev/day-1-foundations/solutions/02-define-the-brief.html

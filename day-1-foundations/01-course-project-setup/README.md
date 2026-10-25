@@ -14,5 +14,5 @@
 
 ---
 
-Exercise: https://yannklein.github.io/ai-champion-course/day-1-foundations/exercises/01-course-project-setup.html  
-Solution: https://yannklein.github.io/ai-champion-course/day-1-foundations/solutions/01-course-project-setup.html
+Exercise: https://ai-champion.yannklein.dev/day-1-foundations/exercises/01-course-project-setup.html  
+Solution: https://ai-champion.yannklein.dev/day-1-foundations/solutions/01-course-project-setup.html

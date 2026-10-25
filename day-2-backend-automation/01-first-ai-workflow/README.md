@@ -1,4 +1,4 @@
-# Exercise 1 deliverables: Build and Publish Your First Workflow
+# Exercise 1 deliverables: Build and Publish a Request Triage Desk
 
 ## Workflow
 
@@ -10,9 +10,9 @@
 
 ## Completion screen
 
-*TODO: upload a screenshot of the completion screen showing a real answer, then write its file name here*
+*TODO: upload a screenshot of the completion screen for the vague request, then write its file name here*
 
 ---
 
-Exercise: https://yannklein.github.io/ai-champion-course/day-2-backend-automation/exercises/01-first-ai-workflow.html  
-Solution: https://yannklein.github.io/ai-champion-course/day-2-backend-automation/solutions/01-first-ai-workflow.html
+Exercise: https://ai-champion.yannklein.dev/day-2-backend-automation/exercises/01-first-ai-workflow.html  
+Solution: https://ai-champion.yannklein.dev/day-2-backend-automation/solutions/01-first-ai-workflow.html

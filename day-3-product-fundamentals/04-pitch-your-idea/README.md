@@ -1,4 +1,4 @@
-# Exercise 7 deliverables: Pitch Your Own Idea for Friday
+# Exercise 4 deliverables: Pitch Your Own Idea for Friday
 
 ## Persona
 
@@ -34,9 +34,13 @@
 
 ## Out of scope
 
-*TODO: the one thing a team will be tempted to add and should not*
+*TODO: the one thing you will be tempted to add and should not*
+
+## Trainer feedback
+
+*TODO: what your trainer asked or suggested when you pitched, and what you changed*
 
 ---
 
-Exercise: https://yannklein.github.io/ai-champion-course/day-3-product-fundamentals/exercises/07-pitch-your-idea.html  
-Solution: https://yannklein.github.io/ai-champion-course/day-3-product-fundamentals/solutions/07-pitch-your-idea.html
+Exercise: https://ai-champion.yannklein.dev/day-3-product-fundamentals/exercises/04-pitch-your-idea.html  
+Solution: https://ai-champion.yannklein.dev/day-3-product-fundamentals/solutions/04-pitch-your-idea.html
